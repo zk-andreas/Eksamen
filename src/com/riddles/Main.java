@@ -33,6 +33,6 @@ public class Main {
             System.out.println(bl.beregnLon());
 
         }
-        System.out.println(lm.addMed(tm));
+        lm.addMed(tm);
     }
 }
